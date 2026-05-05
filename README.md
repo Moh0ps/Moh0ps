@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/badge/-Ansible-000?logo=ansible&logoColor=white&style=flat-square" alt="Ansible"/>
   <img src="https://img.shields.io/badge/-Jenkins-000?logo=jenkins&logoColor=D24939&style=flat-square" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/-GitLab%20CI-000?logo=gitlab&logoColor=FC6D26&style=flat-square" alt="GitLab CI"/>
-  <img src="https://img.shields.io/badge/-ElasticSearch-000?logo=elasticsearch&logoColor=005571&style=flat-square" alt="Elasticsearch"/>
   <img src="https://img.shields.io/badge/-Go-000?logo=go&logoColor=00ADD8&style=flat-square" alt="Go"/>
   <img src="https://img.shields.io/badge/-Gin-000?logo=go&logoColor=00ADD8&style=flat-square" alt="Gin"/>
+  <img src="https://img.shields.io/badge/-ElasticSearch-000?logo=elasticsearch&logoColor=005571&style=flat-square" alt="Elasticsearch"/>
   <img src="https://img.shields.io/badge/-Logstash-000?logo=logstash&logoColor=FCEBB0&style=flat-square" alt="Logstash"/>
   <img src="https://img.shields.io/badge/-Kibana-000?logo=kibana&logoColor=white&style=flat-square" alt="Kibana"/>
   <img src="https://img.shields.io/badge/-Grafana-000?logo=grafana&logoColor=F46800&style=flat-square" alt="Grafana"/>
